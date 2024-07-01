@@ -1,0 +1,9 @@
+export { default as Home } from './Home';
+export { default as Movies } from './Movies';
+export { default as Movie } from './Movie';
+export { default as Genres } from './Genres';
+export { default as EditMovie } from './EditMovie';
+export { default as GraphQL } from './GraphQL';
+export { default as Login } from './Login';
+export { default as ManageCatalogue } from './ManageCatalogue';
+export { default as Error } from './Error';
